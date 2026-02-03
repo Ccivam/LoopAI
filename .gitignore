@@ -1,0 +1,4 @@
+.env
+venv
+.q_file_picker
+__pycache__

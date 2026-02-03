@@ -1,0 +1,13 @@
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+openai-whisper
+pyttsx3
+google-generativeai
+python-dotenv
+torch
+fastapi
+uvicorn
+soundfile
+
