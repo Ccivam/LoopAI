@@ -10,4 +10,5 @@ torch
 fastapi
 uvicorn
 soundfile
+python-multipart
 
